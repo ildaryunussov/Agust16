@@ -19,7 +19,12 @@ public class RESTAPITest {
 		System.out.println("postJira7");
 		
 		
-		
+		// Ildar's INPUT
+		System.out.println("ILDAR");
+		System.out.println("ILDAR2");
+		System.out.println("ILDAR3");
+		System.out.println("ILDAR4");
+		System.out.println("ILDAR5");
 		
 		
 		
