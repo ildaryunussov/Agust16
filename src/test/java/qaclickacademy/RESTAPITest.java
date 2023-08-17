@@ -49,6 +49,17 @@ public class RESTAPITest {
 		System.out.println("DEVELOP BRANCH ILDAR");	
 		
 		
+		
+		System.out.println("FROM GITCLONED BRANCH ILDAR");	
+		System.out.println("FROM GITCLONED BRANCH ILDAR");	
+		System.out.println("FROM GITCLONED BRANCH ILDAR");	
+		System.out.println("FROM GITCLONED BRANCH ILDAR");	
+		System.out.println("FROM GITCLONED BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");
+		
+		
 	}
 	@Test
 	public void deleteTwitter12()
