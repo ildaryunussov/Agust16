@@ -2,7 +2,7 @@ package qaclickacademy;
 
 import org.testng.annotations.Test;
 
-public class AppiumTest {
+public class AppiumTestz {
 	@Test
 	public void NativeAPpAndroid()
 	{
