@@ -31,6 +31,9 @@ public class RESTAPITest {
 						System.out.println("FROM GIT CLONED");
 								System.out.println("FROM GIT CLONED");
 										System.out.println("FROM GIT CLONED");
+										
+										
+										
 		
 	}
 	
@@ -38,6 +41,12 @@ public class RESTAPITest {
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
+		
+		
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
 		
 		
 	}

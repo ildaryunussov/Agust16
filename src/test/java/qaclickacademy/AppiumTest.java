@@ -24,7 +24,12 @@ public class AppiumTest {
 		System.out.println("IOSApps");	
 		
 		System.out.println("IOSApps");	
-		System.out.println("IOSApps");	
+		System.out.println("IOSApps");
+		
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
+		System.out.println("DEVELOP BRANCH ILDAR");	
 		
 		
 	}
